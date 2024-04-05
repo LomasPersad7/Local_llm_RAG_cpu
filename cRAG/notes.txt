@@ -1,0 +1,5 @@
+-unable to install MS build tools, no admin
+
+
+https://www.youtube.com/watch?v=E2shqsYwxck
+https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_crag_local.ipynb
